@@ -1,0 +1,112 @@
+<resources>
+    <!--<string name="app_name">DBTools</string>-->
+    <!--inconfont-->
+    <!--返回-->
+    <string name="icon_back">&#xe7a4;</string>
+    <!--首页-->
+    <string name="icon_tab_home">&#xe61f;</string>
+    <!--分类-->
+    <string name="icon_tab_category">&#xe659;</string>
+    <!--排行版-->
+    <string name="icon_tab_auction">&#xe621;</string>
+    <!--我的-->
+    <string name="icon_tab_me">&#xe658;</string>
+    <!--右箭头-->
+    <string name="icon_right_arrow">&#xe699;</string>
+    <!--赛事分析-->
+    <string name="icon_order_manage">&#xe656;</string>
+    <!--<string name="icon_bail_manage">&#xe69d;</string>-->
+    <!--<string name="icon_me_info">&#xe613;</string>-->
+    <!--设置-->
+    <string name="icon_settings">&#xe63c;</string>
+    <!--&lt;!&ndash;帮助&ndash;&gt;-->
+    <!--<string name="icon_help">&#xe654;</string>-->
+    <!--关于我们-->
+    <string name="icon_about_us">&#xe602;</string>
+    <!--更新版本-->
+    <string name="icon_update_bb">&#xe780;</string>
+    <!--清除-->
+    <string name="icon_clean">&#xe637;</string>
+    <!--客服-->
+    <string name="icon_customer_service">&#xe64f;</string>
+    <!--联系客服-->
+    <string name="icon_contact_customer_service">&#xe6be;</string>
+    <!--qq图标-->
+    <string name="icon_qq">&#xe614;</string>
+    <!--微信图标-->
+    <string name="icon_wechat">&#xe609;</string>
+    <!--聊天室-->
+    <string name="icon_chatroom">&#xe611;</string>
+    <!--清除缓存-->
+    <string name="icon_clear_cache">&#xe637;</string>
+    <!--检查更新-->
+    <string name="icon_check_update">&#xe780;</string>
+    <!--分享-->
+    <string name="icon_share">&#xe6f4;</string>
+    <!--自动登录-->
+    <string name="icon_auto_login">&#xe679;</string>
+    <!--走势图-->
+    <string name="icon_trend_map">&#xe656;</string>
+    <!--我的收藏-->
+    <string name="icon_my_collections">&#xe6cf;</string>
+    <!--我的发帖-->
+    <string name="icon_my_post">&#xe62d;</string>
+    <!--我的圈子-->
+    <string name="icon_my_circle">&#xe62e;</string>
+    <!--侧滑菜单图标-->
+    <string name="icon_side_menu">&#xe613;</string>
+    <!--指纹登录-->
+    <string name="icon_fingerprint">&#xe610;</string>
+    <!--足球宝贝-->
+    <string name="icon_football_baby">&#xe602;</string>
+    <!--关闭x小图标-->
+    <string name="icon_close">&#xe625;</string>
+    <!--点赞-->
+    <string name="icon_like">&#xe60c;</string>
+    <!--评论-->
+    <string name="icon_comment">&#xe604;</string>
+    <!--奖杯-->
+    <string name="icon_cup">&#xe61a;</string>
+    <!--社区-->
+    <string name="icon_community">&#xe62b;</string>
+    <!--加号，添加图片-->
+    <string name="icon_add">&#xe626;</string>
+    <!--删除X-->
+    <string name="icon_delete">&#xe625;</string>
+    <!--未选中-->
+    <string name="icon_select_off">&#xe6d0;</string>
+    <!--选中-->
+    <string name="icon_select_on">&#xe619;</string>
+    <!--发送-->
+    <string name="icon_send">&#xe622;</string>
+    <!--空心-->
+    <string name="icon_empty_heart">&#xe6b3;</string>
+    <!--实心-->
+    <string name="icon_full_heart">&#xe640;</string>
+    <!--扫一扫-->
+    <string name="icon_scan">&#xe633;</string>
+    <!--手机-->
+    <string name="icon_phone">&#xe67e;</string>
+    <!--密码锁-->
+    <string name="icon_lock">&#xe689;</string>
+    <!--选中-->
+    <string name="icon_check">&#xe619;</string>
+
+    <!-- fish -->
+    <string name="icon_home_line">&#xe71e;</string>
+    <string name="icon_papger_line">&#xe880;</string>
+    <string name="icon_book_line">&#xe65d;</string>
+    <string name="icon_chat_line">&#xe61d;</string>
+    <string name="icon_me_line">&#xe60c;</string>
+
+    <!--生活-->
+    <string name="icon_main_zixun">&#xe670;</string>
+    <string name="icon_main_faxian">&#xe623;</string>
+    <string name="icon_main_liaotianshi">&#xe659;</string>
+
+    <!-- 网络连接-->
+    <string name="no_net">当前网络不可用,请检查网络设置</string>
+    <string name="loading_data_failed">数据加载失败,请重试！</string>
+    <string name="empty_data">哎呀，没有找到任何数据呢~</string>
+    <string name="load_no_data_message">哎呀，没有找到任何数据呢~</string>
+</resources>

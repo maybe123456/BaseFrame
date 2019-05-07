@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F00</color>
+    <color name="colorPrimaryDark">#3286E4</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="base_activity_bg">#dddddd</color>
+
+    <color name="main_color">#ED5565</color>
+    <color name="main_color_end">#ffED5565</color>
+    <color name="main_color_half">#88ED5565</color>
+
+    <color name="main_bg_color">#f5f5f5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="main_color_grey">#999999</color>
+
+    <!--界面圆形加载进度-->
+    <color name="cpb_default_color">#33b5e5</color>
+    <dimen name="cpb_default_stroke_width">4dp</dimen>
+    <integer name="cpb_default_min_sweep_angle">20</integer>
+    <integer name="cpb_default_max_sweep_angle">300</integer>
+    <item name="cpb_default_sweep_speed" format="float" type="string">1</item>
+    <item name="cpb_default_rotation_speed" format="float" type="string">1</item>
+
+    <!-- 圆形加载进度条颜色 -->
+    <color name="gplus_color_1">#427fed</color>
+    <color name="gplus_color_2">#f4b400</color>
+    <color name="gplus_color_3">#e03e3f</color>
+
+    <color name="zradiobutton_checked">@color/main_color</color>
+    <color name="zradiobutton_unchecked">@color/main_color_grey</color>
+
+    <color name="main_divider_color">#E3E3E3</color>
+
+    <color name="main_text_color">#333333</color>
+    <color name="main_hint_color">#666666</color>
+
+</resources>

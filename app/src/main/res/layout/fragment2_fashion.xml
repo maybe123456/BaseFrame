@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.example.administrator.dbtools.base.view.TitleBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:TitleBar_Background="@color/main_color"
+            app:TitleBar_LeftVisibility="invisible"
+            app:TitleBar_TextColor="@color/white"
+            app:TitleBar_Title="热门" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ListView
+                android:id="@+id/indexListView"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:choiceMode="singleChoice"
+                android:divider="#f5f5f5"
+                android:dividerHeight="0.5dp"
+                android:scrollbars="none" />
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="@color/main_divider_color" />
+
+            <fragment
+                android:id="@+id/categoryFashionFragment"
+                android:name="com.example.administrator.dbtools.sport.home.CategoryFashionFragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+    </LinearLayout>
+</layout>

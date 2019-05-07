@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 圆形加载进度条颜色 -->
+    <integer-array name="gplus_colors">
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_3</item>
+    </integer-array>
+
+    <string-array name="Spectral">
+        <item>#9E0142</item>
+        <item>#D53E4F</item>
+        <item>#F46D43</item>
+        <item>#FDAE61</item>
+        <item>#FEE08B</item>
+        <item>#FFFFBF</item>
+        <item>#E6F598</item>
+        <item>#ABDDA4</item>
+        <item>#66C2A5</item>
+        <item>#3288BD</item>
+        <item>#5E4FA2</item>
+    </string-array>
+
+    <string-array name="bubble">
+        <item>#609E0142</item>
+        <item>#41FEE08B</item>
+        <item>#dfFFFFBF</item>
+        <item>#41ffffff</item>
+        <item>#18ffffff</item>
+        <item>#1fffffff</item>
+        <item>#25ffffff</item>
+    </string-array>
+
+    <string-array name="walla_colors">
+        <item>#2BA696</item>
+        <item>#22C5B1</item>
+    </string-array>
+
+    <string-array name="BallWaveAnimations">
+        <item>com.github.glomadrian.grav.generator.animation.SideToSideAnimator</item>
+        <item>com.github.glomadrian.grav.generator.animation.ShakeAnimator</item>
+        <item>com.github.glomadrian.grav.generator.animation.BallSizeAnimator</item>
+    </string-array>
+
+    <string-array name="WallaIcon">
+        <item>com.github.glomadrian.grav.generator.animation.ShakeAnimator</item>
+        <item>com.github.glomadrian.grav.generator.animation.AlphaAnimator</item>
+    </string-array>
+
+    <string-array name="BubbleAnimations">
+        <item>com.github.glomadrian.grav.generator.animation.SideToSideAnimator</item>
+        <item>com.github.glomadrian.grav.generator.animation.ShakeAnimator</item>
+    </string-array>
+
+    <string-array name="path">
+        <item>com.github.glomadrian.grav.generator.animation.PathAnimator</item>
+        <item>com.github.glomadrian.grav.generator.animation.BallSizeAnimator</item>
+    </string-array>
+
+    <integer-array name="walla_points_percent_points">
+        <item>10</item>
+        <item>60</item>
+
+        <item>8</item>
+        <item>30</item>
+
+        <item>25</item>
+        <item>10</item>
+
+        <item>45</item>
+        <item>90</item>
+
+        <item>51</item>
+        <item>15</item>
+
+        <item>70</item>
+        <item>6</item>
+
+        <item>75</item>
+        <item>70</item>
+
+        <item>80</item>
+        <item>45</item>
+
+        <item>95</item>
+        <item>30</item>
+    </integer-array>
+
+    <declare-styleable name="FanMenuButtons">
+        <attr name="fanMenuLabels" format="reference" />
+        <attr name="fanLeftDrawable" format="reference" />
+        <attr name="fanButtonColors" format="reference" />
+        <attr name="fanAngleBetweenButtons" format="integer" />
+        <attr name="fanAnimationDuration" format="integer" />
+        <attr name="fanLeftDrawablePadding" format="dimension" />
+        <attr name="fanButtonHeight" format="dimension" />
+        <attr name="fanEnableTouchMovement" format="boolean" />
+        <attr name="fanRememberMovedPosition" format="boolean" />
+        <attr name="fanMinBounceBackAngle" format="integer" />
+        <attr name="fanMaxBounceBackAngle" format="integer" />
+    </declare-styleable>
+
+</resources>
